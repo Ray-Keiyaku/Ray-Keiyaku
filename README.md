@@ -1,16 +1,18 @@
-### Hi there 👋
+<div align="center"><h2>Hi there, I'm RayK! 👋</h2></div>
 
-<!--
-**Ray-Keiyaku/Ray-Keiyaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">📖 Learning Java</p>
+<p align="center">🎧 Like listening music </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">📍 Studying in Shenyang,China</p>
+<p align="center">😃 About me on my<a herf=https://blog.qiyuex.top/about> blog</a></p>
+<div align="center">
+   <img src="https://github-readme-stats.jeasonlau.vercel.app/api/wakatime?username=Ray_Keiyaku&hide_border=true&count=5">
+</div>
+<div align="center">
+    <h3>
+        My Github Stats
+    </h3>
+</div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ray-Keiyaku&show_icons=true&hide_border=true">
+</div>
