@@ -20,5 +20,5 @@
     </h3>
 </div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ray-Keiyaku&show_icons=true&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=Reilkay&show_icons=true&hide_border=true">
 </div>
