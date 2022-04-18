@@ -1,9 +1,9 @@
 <div align="center"><h2>Hi there, I'm RayK! 👋</h2></div>
 
-<p align="center">📖 Learning Java, C#</p>
+<p align="center">📖 Learning Vue, Springboot, Go</p>
 <p align="center">🎧 Like listening music </p>
 <p align="center">📍 Studying in Shenyang,China</p>
-<p align="center">😃 About me on my<a herf=https://blog.qiyuex.top/about> blog</a></p>
+<p align="center">😃 About me on my<a herf=https://blog.reilkay.com/about> blog</a></p>
 
 <div align="center">
     <h3>
