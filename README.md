@@ -11,7 +11,7 @@
     </h3>
 </div>
 <div align="center">
-   <img src="https://github-readme-stats.jeasonlau.vercel.app/api/wakatime?username=Ray_Keiyaku&hide_border=true&count=5">
+   <img src="https://github-readme-stats.jeasonlau.vercel.app/api/wakatime?username=Reilkay&hide_border=true&count=5">
 </div>
 
 <div align="center">
